@@ -366,7 +366,7 @@ hr {
   width: 300px;
   height: 420px;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
-  background: url(/asset/Images/Ghee.jpg) center / cover;
+  background: url(/asset/Images/1.jpg) center / cover;
   overflow: hidden;
 }
 
@@ -438,11 +438,20 @@ hr {
 }
 
 .card-two {
-  background: url(/asset/Images/gunRvenge.jpg) center / cover;
+  background: url(/asset/Images/2.jpg) center / cover;
 }
 
 .card-three {
-  background: url(/asset/Images/office.jpg) center / cover;
+  background: url(/asset/Images/3.jpg) center / cover;
+}
+.card-four {
+  background: url(/asset/Images/4.jpg) center / cover;
+}
+.card-five {
+  background: url(/asset/Images/5.jpg) center / cover;
+}
+.card-six {
+  background: url(/asset/Images/6.jpg) center / cover;
 }
 
 /* --------------------------------------------------------------------------------- */
@@ -451,8 +460,8 @@ hr {
 
 .slideshow-container {
   width: 100%;
-  /* position: relative; */
-  /* margin: auto; */
+  /* position: relative;
+  margin: auto; */
 }
 
 /* Hide the images by default */
